@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 data/
 *.csv
 __pycache__/
+=======
+data/
+*.csv
+__pycache__/
+>>>>>>> 94f3de027c1da56734dbf3e51d4bf3e5ccc17420
 .ipynb_checkpoints/

@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 scikit-learn
 imbalanced-learn
+=======
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+>>>>>>> 94f3de027c1da56734dbf3e51d4bf3e5ccc17420
 xgboost
