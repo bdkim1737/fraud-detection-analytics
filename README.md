@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fraud Detection Using Machine Learning
 
 ## Overview
@@ -74,5 +73,3 @@ Scikit-learn
 XGBoost  
 Pandas  
 Matplotlib
-
->>>>>>> 94f3de027c1da56734dbf3e51d4bf3e5ccc17420
