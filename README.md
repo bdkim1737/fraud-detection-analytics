@@ -13,17 +13,6 @@ Credit Card Fraud Detection Dataset from Kaggle.
 Transactions: 284,807  
 Fraud Cases: 492
 
-## Project Structure
-
-fraud-detection-analytics
-│
-├── notebooks
-│   ├── 01_eda.ipynb
-│   └── 02_model_training.ipynb
-│
-├── requirements.txt
-└── README.md
-
 ## Models Used
 
 - Logistic Regression
@@ -50,3 +39,4 @@ Scikit-learn
 XGBoost  
 Pandas  
 Matplotlib
+
