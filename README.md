@@ -16,7 +16,7 @@ Credit Card Fraud Detection Dataset from Kaggle.
 - Logistic Regression
 - Weighted Logistic Regression
 - SMOTE Logistic Regression
-- Random Forest
+- SMOTE Random Forest
 - XGBoost
 
 ## Evaluation Metrics
