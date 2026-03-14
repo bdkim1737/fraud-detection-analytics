@@ -18,7 +18,7 @@ Fraud Cases: 492
 - Logistic Regression
 - Weighted Logistic Regression
 - SMOTE Logistic Regression
-- Random Forest
+- SMOTE Random Forest
 - XGBoost
 
 ## Evaluation Metrics
