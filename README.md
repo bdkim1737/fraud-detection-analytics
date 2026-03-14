@@ -30,8 +30,6 @@ Because fraud datasets are highly imbalanced, accuracy is not a useful metric. I
 ## Results
 The SMOTE Random Forest model produced the best balance between precision and recall, making it the most effective model for fraud detection.
 
-## Project Structure
-=======
 # Fraud Detection Using Machine Learning
 
 This project builds a machine learning system to detect fraudulent credit card transactions.
